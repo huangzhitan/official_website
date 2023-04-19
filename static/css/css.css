@@ -82,7 +82,7 @@ input {outline:none;}
 	
 .case_list{float:left;width:445px;margin-right:45px;margin-top:9px;padding-bottom:36px;}
 	.case_img{float:left;width:240px;height:167px;background:url("../image/case_img_bg.png") no-repeat left bottom;}
-	.case_img img {display:block;width:230px;height:162px;}
+	.case_img img {display:block;/* width:230px; */height:162px;}
 	.case_img a{display:block;width:230px;height:162px;position:relative;}
 	.case_img a:hover{display:block;}
 	.case_img a em{display:none;width:230px;height:162px;position:absolute;background:url('../image/case_inner_border.png') no-repeat;}
