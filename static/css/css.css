@@ -8,10 +8,10 @@ input {outline:none;}
 .clear{clear:both;}
 
 .box{width:100%;float:left;}
-.index_box1{height:97px;background:url('../image/topnav_bg.png') no-repeat top center; }
-.index_box2{height:412px;background:url('../image/20230316153843.png') no-repeat top center; position: relative;
+.index_box1{height:97px;background:url('../image/topnav_bg.jpg') no-repeat top center; }
+.index_box2{height:412px;background:url('../image/index-big.jpg') no-repeat top center; position: relative;
     top: -1px;}
-.index_box3{height:68px;background:url('../image/viewmore_bg.png') no-repeat top center; position: relative;
+.index_box3{height:68px;background:url('../image/viewmore_bg.jpg') no-repeat top center; position: relative;
     top: -1px;}
 .index_box4{height:219px;background:url('../image/box_index_bg4.png') no-repeat top center; position: relative;
     top: -1px;}
@@ -20,7 +20,7 @@ input {outline:none;}
 .news_box1{height:104px;background:url('../image/topnav_bg2.png') top center no-repeat;}
 .news_box2{height:56px;background:url('../image/news_footer_bg.png') #fafafa repeat-x;}
 .news_box3{background:url('../image/box_news_bg1.png') top center #fafafa no-repeat;padding-bottom:57px;}
-.case_box1{height:104px;background:url('../image/topnav_bg.png') no-repeat top center;}
+.case_box1{height:104px;background:url('../image/topnav_bg.jpg') no-repeat top center;}
 
 .index_more{float:right;color:white;width:36px;text-align:center;line-height:14px;}
 .footer {text-align:center;}
